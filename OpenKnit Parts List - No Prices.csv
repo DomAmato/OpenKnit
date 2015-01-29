@@ -4,20 +4,38 @@ Servo,5,5,http://www.ebay.com/itm/5pcs-x-Genuine-SG90-Mini-Micro-9g-Servo-For-RC
 GT2 Timing Belt,"1,920mm","4,000mm",http://www.ebay.com/itm/GT2-Timing-Belt-for-3D-printer-cut-to-length-reprap-prusa-mendel-/321126664722?pt=LH_DefaultDomain_0&hash=item4ac4a40a12,Small model needs 192cm and the large one needs 4m 
 V Groove Bearings,16,24,http://www.ebay.com/itm/20Pcs-623VV-V-Groove-Sealed-Ball-Bearings-Vgroove-3mm-X-12mm-X-4mm-1-2mm-Deep-/171126584176?pt=BI_Heavy_Equipment_Parts&hash=item27d7f07370,"Small model needs 16, big model needs 24"
 8M Threaded Rod,"1,100mm","5,000mm","http://www.ebay.com/itm/331265740735, http://www.ebay.com/itm/331185771428, http://www.ebay.com/itm/231112552467",The carriages use M8 threaded rods while the support rods use M4 and M6 threaded rods depending on the size of the aluminum profile.
-"Flat Aluminum Bar 25 x 3mm or 1/8"" x 1""","2,400mm","5,505mm",http://www.ebay.com/itm/6061-T6-Metric-Aluminum-Bar-3mm-Thick-x-25mm-Wide-x-3-Ft-Length-4-pcs-/111469660869?pt=LH_DefaultDomain_0&hash=item19f41c0ac5,The openKnit project calls it an I profile but its just a flat bar… don’t bother looking for an I profile as you will never find it in the size given
-Aluminum Tee 15 x 15,"1,600mm","3,505mm",http://www.metricmetal.com/products/alum_tee.htm  http://mdmetric.com/,Evidently impossible to find on ebay…
+"Flat Aluminum Bar 25 x 3mm or 1/8"" x 1""","2,400mm","5,505mm",http://www.ebay.com/itm/6061-T6-Metric-Aluminum-Bar-3mm-Thick-x-25mm-Wide-x-3-Ft-Length-4-pcs-/111469660869?pt=LH_DefaultDomain_0&hash=item19f41c0ac5,The openKnit project calls it an I profile but its just a flat barâ€¦ donâ€™t bother looking for an I profile as you will never find it in the size given
+Aluminum Tee 15 x 15,"1,600mm","3,505mm",http://www.metricmetal.com/products/alum_tee.htm  http://mdmetric.com/,Evidently impossible to find on ebayâ€¦
 X Profile Aluminum 20 x 20,"3,200mm","6,870mm",http://www.8020.net/t-slot-5.asp http://www.ebay.com/itm/330909290500,Can be ordered from other places try using http://www.8020.net/t-slot-5.asp
 X Profile Aluminum 30 x 30,"2,534mm","3,000mm",http://www.8020.net/t-slot-5.asp http://www.ebay.com/itm/370668683253,
 X Profile Aluminum 40 x 40,0mm,"3,582mm",http://www.ebay.com/itm/KINETIK-Systemprofil-40x40-Nut8-Profile-Aluprofil-Aluminiumprofil-von1175-2000mm-/181521028732?pt=Rohstoffe_Materialien&var=&hash=item2a437f167c,These are only needed for the large model
-Stepper Motor,1,1,http://www.ebay.com/itm/121057657218?ssPageName=STRK:MEWAX:IT&_trksid=p3984.m1423.l2649,You don’t need the lot of 5 but I think they are the best deal you can find
+Stepper Motor,1,1,http://www.ebay.com/itm/121057657218?ssPageName=STRK:MEWAX:IT&_trksid=p3984.m1423.l2649,You donâ€™t need the lot of 5 but I think they are the best deal you can find
 GT2 Pulley,1,1,http://www.ebay.com/itm/5pcs-GT2-Aluminum-Timing-Pulleys-20T-RepRap-Prusa-Mendel-3D-Printer-6-35mm-Bore-/261586782036?pt=LH_DefaultDomain_0&hash=item3ce7c98754,Again don't need all of them but they come with screws and everything . They can also be bought with a belt that might save money just look up GT2 on ebay and you will get a ton of results
 Microswitches,2,2,http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amicroswitch,bought wherever pick your flavor
-Acrylic,810x635x3mm,,http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amicroswitch  ,"It needs to be laser cut but not especially large pieces. They are roughly 15""x4"" for each component. Says 3mm thick but perhaps could be 1/8th inch instead. I don’t know that there is an equivently thickness in material since it is slightly smaller than an 1/8th but larger than 1/16"
+Acrylic,810x635x3mm,,http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amicroswitch  ,"It needs to be laser cut but not especially large pieces. They are roughly 15""x4"" for each component. Says 3mm thick but perhaps could be 1/8th inch instead. I donâ€™t know that there is an equivently thickness in material since it is slightly smaller than an 1/8th but larger than 1/16"
 608Z Bearings,1,1,http://www.ebay.com/itm/Reprap-3D-printer-608zz-Bearings-3-and-Idler-Rod-for-Extruder-USA-SELLER-/131102738517?pt=LH_DefaultDomain_0&hash=item1e86550855,Again they are all over ebay or amazon
 Stepstick A4988,1,1,http://www.ebay.com/itm/5PCS-StepStick-Stepper-motor-driver-A4988-3D-Printer-driver-module-Reprap-Prus-/200941256658?pt=LH_DefaultDomain_0&hash=item2ec9083fd2,Could also use the easy stepper but these are cheap and what the original instructions use. Step accuracy isn't actually a huge deal since it takes multiple steps to get between needles and microstepping actually slows things down
 Arduino Board,1,1,,"Pick your favorite, really doesn't matter unless you want to use a sheild but its really not needed"
 ,,,,
-"eBay was generally the cheapest place for a lot of these items but quote out the price of the aluminum extrusions since they are by far the most expensive part of the whole contraption. I did not include the price of 3d printing things since that really depends on the filament etc. Also for some reason the big unit had hall effect sensors and a photoresistor in the parts list but I dont see why they were added on the actual machine or why since no magnets are included in the parts list. I did not include an encoder as the keeping track of the steppers steps should be fine. As a heads up everything is metric so you will need nuts and bolts and so on that are metric sizes so thats an included cost too. Mostly M3 sizes it looks like. I also didn't inlude the cost of an arduino or shield, I think it can easily be deisgned with a teensy 2.0. I recommend the 2.0 since the newer 3.0s run on ARM and thus 3.3v instead of 5.",,,,
+"eBay was generally the cheapest place for a,,,,
+lot of these items but quote out the price of,,,,
+the aluminum extrusions since they are by far,,,,
+the most expensive part of the whole contraption.,,,,
+I did not include the price of 3d printing things,,,,
+since that really depends on the filament etc.,,,,
+Also for some reason the big unit had hall effect,,,,
+sensors and a photoresistor in the parts list but,,,,
+I dont see why they were added on the actual machine,,,,
+or why since no magnets are included in the parts list.,,,,
+I did not include an encoder as the keeping track of,,,,
+the steppers steps should be fine. As a heads up,,,,
+everything is metric so you will need nuts and bolts,,,,
+and so on that are metric sizes so thats an included,,,,
+cost too. Mostly M3 sizes it looks like. I also,,,,
+didn't inlude the cost of an arduino or shield,,,,
+I think it can easily be deisgned with a teensy 2.0.,,,,
+I recommend the 2.0 since the newer 3.0s run on,,,,
+ARM and thus 3.3v instead of 5.",,,,
 ,,,,
 ,,,,
 ,,,,
