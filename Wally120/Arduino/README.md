@@ -1,0 +1,1 @@
+The WIP I believe is just a test suite as the orginal Wally is supposed to use the knitic firmware. However this fork will be focusing development on host software other than knitic utilzing the Firmata firmware. As of now it uses a custom version of Firmata. Refer to the readme in the custom firmata folder for instructions on installation.
